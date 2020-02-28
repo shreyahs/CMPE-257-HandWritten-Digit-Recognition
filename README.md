@@ -1,2 +1,2 @@
 # HandWritten-Digit-Recognition
-Claasification of handwritten digits from MNIST database using LR,RF and KNN models
+Claasification of handwritten digits from MNIST database using Logistic Regression,Random Forest and K -Nearest Neighbor models.
